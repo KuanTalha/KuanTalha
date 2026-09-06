@@ -255,28 +255,6 @@ Brain-Computer Interface project exploring EEG signal processing, command recogn
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=KuanTalha&theme=github-dark-blue&hide_border=true&border_radius=12&card_width=496&background=45%2C0D1117%2C1C2431&stroke=8D6F15&currStreakNum=fff&currStreakLabel=fff&sideLabels=58A6FF&fire=FF652F" alt="GitHub Streak"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=KuanTalha&show_icons=true&theme=github_dark&bg_color=45,0D1117,1C2431&hide_border=true&border_radius=12&ring_color=1f6feb&text_color=fff&title_color=58a6ff" alt="GitHub Stats"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuanTalha&layout=compact&theme=github_dark&bg_color=45,0D1117,1C2431&hide_border=true&border_radius=12&text_color=fff&title_color=58a6ff" alt="Top Languages"/>
-
-</p>
-
----
-
 # 🌐 Connect With Me
 
 <p align="left">
