@@ -9,8 +9,7 @@
 </h3>
 
 <p align="center">
-  I build intelligent applications by combining modern software engineering with
-  <b>LLMs, RAG, AI Agents, APIs, and scalable web technologies.</b>
+  Building intelligent applications with AI, LLMs, RAG, Agents and modern web technologies.
 </p>
 
 <p align="center">
@@ -18,66 +17,29 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/KuanTalha">
-    <img src="https://img.shields.io/github/followers/KuanTalha?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://github.com/KuanTalha?tab=repositories">
-    <img src="https://img.shields.io/github/stars/KuanTalha?style=for-the-badge&logo=github" />
-  </a>
+  <img src="https://img.shields.io/github/followers/KuanTalha?style=for-the-badge&logo=github" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/stars/KuanTalha?style=for-the-badge&logo=github" alt="GitHub Stars"/>
 </p>
 
 ---
 
 ## 🧠 About Me
 
-I'm a Computer Science graduate passionate about **Artificial Intelligence, software engineering, and building real-world products**.
+I'm a Computer Science graduate passionate about **Artificial Intelligence, software engineering and building real-world products**.
 
-I enjoy working at the intersection of:
+My main interests are:
 
-* 🤖 Artificial Intelligence & Machine Learning
-* 🧠 Large Language Models (LLMs)
-* 🔎 Retrieval-Augmented Generation (RAG)
+* 🤖 Artificial Intelligence
+* 🧠 Large Language Models
+* 🔎 Retrieval-Augmented Generation
 * 🕸️ AI Agents & Agentic Workflows
-* 🔗 LangGraph & tool-calling systems
-* ⚡ Backend & API development
-* 🎨 Modern frontend development
-* 🗄️ Databases & vector databases
-* 🚀 Full-Stack AI applications
+* 🔗 LangGraph
+* ⚡ FastAPI & Backend Engineering
+* 🎨 React & Modern Frontend
+* 🗄️ PostgreSQL & Vector Databases
+* 🚀 Full-Stack AI Applications
 
-I don't just want to build demos — **I like turning ideas into working products.**
-
----
-
-## 🚀 What I'm Currently Exploring
-
-```text
-LLMs
- ├── Prompt Engineering
- ├── Structured Outputs
- ├── Function / Tool Calling
- └── Multi-model Applications
-
-RAG
- ├── Document Processing
- ├── Embeddings
- ├── Vector Search
- ├── Chunking & Retrieval
- └── Reranking
-
-AI Agents
- ├── LangGraph
- ├── Tool Use
- ├── Memory
- ├── Multi-step Reasoning
- └── Agentic Workflows
-
-Full-Stack AI
- ├── FastAPI
- ├── React / Next.js
- ├── PostgreSQL
- ├── Vector Databases
- └── REST APIs
-```
+I enjoy taking an idea from **concept → architecture → implementation → working product**.
 
 ---
 
@@ -86,126 +48,272 @@ Full-Stack AI
 ## 🤖 AI / Machine Learning
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="45" height="45" alt="PyTorch"/>
+
+<a href="https://www.python.org/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
+</a>
+
+<a href="https://pytorch.org/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="50" height="50" alt="PyTorch"/>
+</a>
+
+<a href="https://www.tensorflow.org/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" width="50" height="50" alt="TensorFlow"/>
+</a>
+
 </p>
 
 **LLMs • RAG • AI Agents • Prompt Engineering • Embeddings • Vector Search • LangGraph • NLP**
 
 ---
 
+## 🧩 LLM & AI Ecosystem
+
+<p align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/>
+
+</p>
+
+**OpenAI • Gemini • Claude • Groq • LangChain • LangGraph • RAG • Function Calling • Structured Outputs • AI Agents**
+
+---
+
 ## ⚡ Backend
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="45" height="45" alt="FastAPI"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" height="45" alt="Express"/>
+
+<a href="https://fastapi.tiangolo.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="50" height="50" alt="FastAPI"/>
+</a>
+
+<a href="https://nodejs.org/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="55" height="55" alt="Node.js"/>
+</a>
+
+<a href="https://expressjs.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="50" height="50" alt="Express.js"/>
+</a>
+
 </p>
 
-**FastAPI • Node.js • Express.js • REST APIs • Authentication • WebSockets • API Integration**
+**FastAPI • Node.js • Express.js • REST APIs • WebSockets • Authentication • API Integration**
 
 ---
 
 ## 🎨 Frontend
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45" alt="React"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML5"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS3"/>
+
+<a href="https://react.dev/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="50" height="50" alt="React"/>
+</a>
+
+<a href="https://nextjs.org/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="50" height="50" alt="Next.js"/>
+</a>
+
+<a href="https://www.javascript.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/>
+</a>
+
+<a href="https://www.typescriptlang.org/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript"/>
+</a>
+
+<a href="https://www.w3.org/html/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" height="50" alt="HTML5"/>
+</a>
+
+<a href="https://www.w3.org/Style/CSS/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" height="50" alt="CSS3"/>
+</a>
+
 </p>
 
-**React • JavaScript • HTML5 • CSS3 • Tailwind CSS • Responsive UI • Dashboard Design**
+**React • Next.js • JavaScript • TypeScript • HTML5 • CSS3**
+
+---
+
+## 🎨 Styling
+
+<p align="left">
+
+<a href="https://tailwindcss.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50" alt="Tailwind CSS"/>
+</a>
+
+<a href="https://getbootstrap.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="50" height="50" alt="Bootstrap"/>
+</a>
+
+</p>
+
+**Tailwind CSS • Bootstrap • Responsive Design • Modern UI/UX**
 
 ---
 
 ## 🗄️ Databases
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45" height="45" alt="PostgreSQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" alt="MySQL"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45" alt="MongoDB"/>
+
+<a href="https://www.postgresql.org/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL"/>
+</a>
+
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="50" height="50" alt="MySQL"/>
+</a>
+
+<a href="https://www.mongodb.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="MongoDB"/>
+</a>
+
+<a href="https://redis.io/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="50" height="50" alt="Redis"/>
+</a>
+
 </p>
 
-**PostgreSQL • MySQL • MongoDB • SQL • Data Modeling • Vector Databases**
+**PostgreSQL • MySQL • MongoDB • Redis • SQL • Data Modeling • Vector Databases**
 
 ---
 
-## 🔧 Tools & Technologies
+## 🔎 AI / Vector Databases
+
+**ChromaDB • FAISS • Pinecone • Qdrant • Embeddings • Semantic Search**
+
+---
+
+## 🔧 Tools & DevOps
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code"/>
+
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
+</a>
+
+<a href="https://github.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/>
+</a>
+
+<a href="https://www.docker.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="50" height="50" alt="Docker"/>
+</a>
+
+<a href="https://code.visualstudio.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50" height="50" alt="VS Code"/>
+</a>
+
 </p>
 
-**Git • GitHub • VS Code • Postman • Docker • n8n • API Integration**
+**Git • GitHub • Docker • VS Code • Postman • n8n**
 
 ---
 
-# 🔥 Featured Areas
-
-### 🤖 AI Engineering
-
-Building applications around:
-
-* LLM-powered assistants
-* RAG pipelines
-* AI agents
-* Conversational AI
-* AI-powered analytics
-* Document intelligence
-* Tool-calling systems
-* Automated workflows
-
-### 🧩 Full-Stack Development
-
-Building complete applications using:
-
-**React → API → Backend → Database → AI/LLM → Deployment**
-
----
-
-# 🚀 Projects
-
-Some of the things I'm building and experimenting with:
-
-### 🧠 AI Financial Advisor
-
-An AI-powered financial assistant designed to analyze financial information and provide intelligent insights.
+# 🚀 Featured Projects
 
 ### 📞 CallSight
 
 AI-powered call analysis platform for business communication and sales teams.
 
-**LLM • Speech-to-Text • Conversation Analysis • Sentiment • AI Insights**
+**AI • Speech-to-Text • LLM • Sentiment Analysis • Conversation Intelligence**
+
+---
 
 ### 📈 PSX AI Trading Copilot
 
 AI-powered assistant for analyzing Pakistan Stock Exchange data and generating intelligent market insights.
 
+**Python • LLM • Financial Data • RAG • AI Agents**
+
+---
+
+### 💰 AI Financial Advisor
+
+An intelligent financial assistant designed to analyze financial information and provide personalized insights.
+
+**LLM • RAG • Agents • PostgreSQL • React**
+
+---
+
 ### 🏎️ AI Formula 1 Race Strategy Simulator
 
-An AI-driven Formula 1 strategy platform combining simulation, LLMs, data analysis and agentic workflows.
+AI-driven Formula 1 strategy simulator combining data analysis, simulation and agentic AI.
+
+**Python • LLM • RAG • LangGraph • Simulation**
+
+---
 
 ### 🧠 EEG → AI Agent
 
 Brain-Computer Interface project exploring EEG signal processing, command recognition and AI-agent interaction.
+
+**Python • EEG • Signal Processing • AI Agents • IoT**
+
+---
+
+# 🧠 AI Architecture
+
+```text
+                    ┌─────────────────────┐
+                    │     User / Client   │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │   React / Next.js   │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │    FastAPI / API    │
+                    └──────────┬──────────┘
+                               │
+                    ┌──────────┴──────────┐
+                    ▼                     ▼
+             ┌─────────────┐      ┌─────────────┐
+             │ PostgreSQL  │      │ Vector DB   │
+             └─────────────┘      └──────┬──────┘
+                                         │
+                                         ▼
+                                ┌─────────────────┐
+                                │   RAG Pipeline  │
+                                └────────┬────────┘
+                                         │
+                                         ▼
+                                ┌─────────────────┐
+                                │ LLM / AI Agent  │
+                                └────────┬────────┘
+                                         │
+                                         ▼
+                                ┌─────────────────┐
+                                │ Tools / APIs    │
+                                └─────────────────┘
+```
 
 ---
 
 # 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=KuanTalha&theme=github-dark-blue&hide_border=true&border_radius=12&card_width=496&background=45%2C0D1117%2C1C2431&stroke=8D6F15&currStreakNum=fff&currStreakLabel=fff&sideLabels=58A6FF&fire=FF652F" alt="GitHub Streak" />
+
+<img src="https://streak-stats.demolab.com?user=KuanTalha&theme=github-dark-blue&hide_border=true&border_radius=12&card_width=496&background=45%2C0D1117%2C1C2431&stroke=8D6F15&currStreakNum=fff&currStreakLabel=fff&sideLabels=58A6FF&fire=FF652F" alt="GitHub Streak"/>
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KuanTalha&show_icons=true&theme=github_dark&bg_color=45,0D1117,1C2431&hide_border=true&border_radius=12&ring_color=1f6feb&text_color=fff&title_color=58a6ff" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=KuanTalha&show_icons=true&theme=github_dark&bg_color=45,0D1117,1C2431&hide_border=true&border_radius=12&ring_color=1f6feb&text_color=fff&title_color=58a6ff" alt="GitHub Stats"/>
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuanTalha&layout=compact&theme=github_dark&bg_color=45,0D1117,1C2431&hide_border=true&border_radius=12&text_color=fff&title_color=58a6ff" alt="Top Languages" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KuanTalha&layout=compact&theme=github_dark&bg_color=45,0D1117,1C2431&hide_border=true&border_radius=12&text_color=fff&title_color=58a6ff" alt="Top Languages"/>
+
 </p>
 
 ---
@@ -213,19 +321,21 @@ Brain-Computer Interface project exploring EEG signal processing, command recogn
 # 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-HERE">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45" height="45" alt="LinkedIn"/>
-  </a>
+
+<a href="https://linkedin.com/in/YOUR-LINKEDIN-HERE">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="50" height="50" alt="LinkedIn"/>
+</a>
+
 </p>
 
-I'm always interested in:
+I'm always open to:
 
-**AI projects • Freelance opportunities • Open-source collaboration • Startups • Interesting technical problems**
+**AI Projects • Freelance Work • Open Source • Startups • Collaboration**
 
 ---
 
 <p align="center">
-  <i>"Build something useful. Learn something new. Keep moving."</i>
+  <i>Build. Learn. Experiment. Ship. 🚀</i>
 </p>
 
 <p align="center">
@@ -233,5 +343,5 @@ I'm always interested in:
 </p>
 
 <p align="center">
-  ⭐ If you find something interesting in my repositories, feel free to star it!
+  ⭐ If you find my work useful, consider starring a repository!
 </p>
