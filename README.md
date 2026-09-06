@@ -255,47 +255,6 @@ Brain-Computer Interface project exploring EEG signal processing, command recogn
 
 ---
 
-# 🧠 AI Architecture
-
-```text
-                    ┌─────────────────────┐
-                    │     User / Client   │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │   React / Next.js   │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │    FastAPI / API    │
-                    └──────────┬──────────┘
-                               │
-                    ┌──────────┴──────────┐
-                    ▼                     ▼
-             ┌─────────────┐      ┌─────────────┐
-             │ PostgreSQL  │      │ Vector DB   │
-             └─────────────┘      └──────┬──────┘
-                                         │
-                                         ▼
-                                ┌─────────────────┐
-                                │   RAG Pipeline  │
-                                └────────┬────────┘
-                                         │
-                                         ▼
-                                ┌─────────────────┐
-                                │ LLM / AI Agent  │
-                                └────────┬────────┘
-                                         │
-                                         ▼
-                                ┌─────────────────┐
-                                │ Tools / APIs    │
-                                └─────────────────┘
-```
-
----
-
 # 📊 GitHub Statistics
 
 <p align="center">
